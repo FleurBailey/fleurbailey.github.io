@@ -1,6 +1,6 @@
 ---
 layout: recipeshome
-title: Recipes
+title: RECIPES
 subtitle: My Recipe Site #optional sub title to the post
 permalink: /recipes/
 tags:
