@@ -38,7 +38,7 @@ url: https://fleurbailey.github.io
 description: Oxford Based Food Blog
 avatar: uploads/Avocado.jpg
 favicon: uploads/Avocado.jpg
-gridlayout: false
+gridlayout: true
 recipemenu: false
 header_text: OXFORD FOOD BLOG
 recipecollection: Your recipe collection

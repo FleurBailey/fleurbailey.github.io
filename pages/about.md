@@ -1,13 +1,16 @@
 ---
-title: About
+title: ABOUT
 permalink: "/about/"
 layout: page
-subtitle: All about me and my life
+subtitle:
 header_feature_image: "/uploads/log.jpg"
-tags: 
-description: 
+tags:
+description:
+hide: true
 ---
+### WELCOME TO WHAT OXFORD EATS
 
+A collection of the best eats across Oxford, including sharing the best of the
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
 
 This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
