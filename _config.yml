@@ -36,7 +36,7 @@ defaults:
 baseurl: ''  #leave this alone
 url: "https://fleurbailey.github.io"   #change this to yours
 title: Fleur Bernadine Bailey # site's title
-description: "A website with blog posts and recipes" # used by search engines
+description: "Oxford Student Blog" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
@@ -63,7 +63,7 @@ twitter_username:   #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2020 My name"
+    "Copyright 2020 Fleur Bernadine Bailey"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
@@ -71,7 +71,7 @@ email_address: # Full email address, e.g. "sam@example.com"
 facebook:
 flickr:
 google_plus:
-instagram:
+instagram: whatoxfordeats
 linkedin:  # Full URL
 pinterest:
 soundcloud:
