@@ -1,0 +1,9 @@
+---
+layout: post
+title: Example
+date: 2020-01-28 13:02
+published: false
+header_feature_image:
+caption:
+tags:    # use [tag1,tag2]
+---

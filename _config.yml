@@ -34,8 +34,8 @@ defaults:
 
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://yoursite.github.io"   #change this to yours
-title: My name or organisation # site's title
+url: "https://fleurbailey.github.io"   #change this to yours
+title: Fleur Bernadine Bailey # site's title
 description: "A website with blog posts and recipes" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
