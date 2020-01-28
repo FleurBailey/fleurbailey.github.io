@@ -6,15 +6,16 @@ subtitle:
 header_feature_image: "/uploads/log.jpg"
 tags:
 description:
-hide: true
+hide: false
 ---
+
+
+[![Eat What makes you Happy](/_uploads/EatWhatMakesYouHappy.jpg)](/_uploads/EatWhatMakesYouHappy.jpg)
+
 ### WELCOME TO WHAT OXFORD EATS
 
-A collection of the best eats across Oxford, including sharing the best of the
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+A collection of the best eats across Oxford, including sharing the best vegan recipes that you can make at home.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Oxford is full to the brim with restaurants of all kinds; suitable for studying in and also for a fine dining experience.  
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+### WHY EAT VEGAN
