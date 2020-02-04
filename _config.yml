@@ -36,7 +36,7 @@ defaults:
 baseurl: ''
 url: https://fleurbailey.github.io
 description: STUDENT BLOG
-avatar: uploads/Avocado.jpg
+avatar: uploads/Icon.jpg
 favicon: uploads/Avocado.jpg
 gridlayout: true
 recipemenu: false
