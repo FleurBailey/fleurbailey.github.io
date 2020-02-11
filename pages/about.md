@@ -13,4 +13,5 @@ Throughout my childhood my parents encouraged me to be inspired by the creative 
 
 Over the last few years I have made an active choice to visit galleries across the UK, as well as being fortunate enough to visit several in Europe. Currently, I am living as a student in Oxford; I am constantly surrounded by historical architecture which personally makes this city a truly inspiring place to study.
 
+
 Throughout this blog, I shall be sharing my experiences at recent exhibitions and also my favourite galleries at home and away.

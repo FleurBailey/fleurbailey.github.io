@@ -44,7 +44,7 @@ header_text: STUDENT BLOG
 recipecollection: Your recipe collection
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: /uploads/galleryheader.jpg
+header_feature_image: /uploads/museumheader.jpg
 recipe_bookcover: /uploads/bookcover.jpg
 
 twitter_username:   #change to your own twitter account
