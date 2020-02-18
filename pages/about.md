@@ -3,7 +3,7 @@ title: ABOUT
 permalink: "/about/"
 layout: page
 subtitle:
-header_feature_image: "/uploads/galleryaboutpage"
+header_feature_image: "/uploads/galleryaboutpage.jpg"
 tags:
 description:
 hide: false
