@@ -28,7 +28,7 @@ This Avocado Hummus recipe is like guacamole and hummus in one, and it is the sm
 - Salt and freshly ground black pepper
 - 1/8 tsp cumin
 - 1 - 2 Tbsp finely chopped cilantro leaves , for topping
-- Red pepper flakes , for toppin
+- Red pepper flakes , for topping
 
 
 ## Method
