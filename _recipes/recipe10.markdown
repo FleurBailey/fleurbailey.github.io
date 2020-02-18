@@ -12,8 +12,7 @@ order: 2
 
 # Avocado Hummus
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+This Avocado Hummus recipe is like guacamole and hummus in one, and it is the smoothest and creamiest hummus recipe.
 <!--more-->
 
 [![Hummus](/_uploads/avohummus.jpg)](/_uploads/avohummus.jpg)
