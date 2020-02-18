@@ -1,6 +1,7 @@
 /*! CSS adapted from  type theme */
 html {
     font-family: sans-serif;
+    font-weight:lighter;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     background: #fff;
@@ -18,7 +19,19 @@ img {
 h1.title {
   font-size:2em;
   color:rgb(155, 207, 154);
+  text-transform: uppercase;
 }
+
+h2{
+  color:rgb(174, 191, 169);
+  font-family: sans-serif;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: lighter;
+
+}
+
+
 
 article, aside, details, figcaption, figure, footer, header, hgroup,
 main, menu, nav, section, summary {
@@ -27,9 +40,12 @@ main, menu, nav, section, summary {
 
 body {
     font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
+    font-weight: lighter;
     margin: 30px;
     font-size: 1.25em;
+    font-color: gray
 }
+
 
 h1.site-title {
 font-size: 2.5em;
@@ -70,7 +86,7 @@ hr {
 }
 
 a {
-    color: #337ab7;
+    color: #a3d584;
     text-decoration: none
 }
 
