@@ -7,7 +7,7 @@ tags:
 - sides
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 1
+order: 4
 ---
 
 # Crunchy, Crispy, Avocado Fries

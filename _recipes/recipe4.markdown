@@ -7,7 +7,7 @@ tags:
 - Main
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 1
+order: 6
 ---
 
 # Avocado and Smoked Salmon Spelt Spaghetti

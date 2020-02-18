@@ -7,7 +7,7 @@ tags:
 - Easy
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 1
+order: 9
 ---
 
 # Chocolate, Peanut Butter and Avocado Pudding
@@ -35,7 +35,7 @@ Avocado's neutral flavour and creamy texture makes it a wonderful substitute for
 
 1. Scoop the avocado flesh into a food processor.
 2. Add the chopped banana, prunes, almond or coconut milk, smooth peanut
-   butter and cacao powder. 
+   butter and cacao powder.
 3. Blend until smooth, adding a little more milk if the blade gets
    stuck. Scrape down the sides once or twice and blend again.
 4. Divide the mixture between 4 small glasses. Mix the coconut

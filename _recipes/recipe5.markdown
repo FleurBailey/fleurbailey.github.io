@@ -7,7 +7,7 @@ tags:
 - Easy
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 1
+order: 3
 ---
 
 # Stuffed Avocado with Spicy Beans and Feta

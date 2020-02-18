@@ -7,7 +7,7 @@ tags:
 - sweet
 layout: recipe
 excerpt_separator: "<!--more-->"
-order:
+order: 8
 ---
 
 # Avocado Banana Bread
