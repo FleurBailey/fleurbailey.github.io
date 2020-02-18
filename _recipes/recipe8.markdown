@@ -20,10 +20,10 @@ These Baked Avocado Fries are oven-baked and oil-free
 
 ## Ingredients
 - 2 large or 4 small avocados, peeled and sliced
-- 1/4 tsp garlic powder
-- 1/4 tsp salt
-- 1/4 cup flour, such as garbanzo flour
-- 1/2 cup milk of choice
+- &#188;	tsp garlic powder
+- &#188;	 tsp salt
+- &#188; cup flour, such as garbanzo flour
+- &#189; cup milk of choice
 - 1 cup breadcrumbs
 
 ## Method

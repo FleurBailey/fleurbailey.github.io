@@ -20,10 +20,9 @@ This super speedy meal is packed with vegetarian sources of protein - top creamy
 
 ## Ingredients
 
--  ½ tsp cumin seeds
+-  &#189; tsp cumin seeds
 - 210g can red kidney beans, drained
-- 1 large lime, zest and juice of ½ , the other
-  ½ cut into wedges
+- 1 large lime, zest and juice of ½ , the other &#189; cut into wedges
 - 3 tomatoes, diced
 - 1 banana shallot, finely chopped
 - 1 green chilli, deseeded and finely chopped

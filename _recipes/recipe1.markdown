@@ -21,14 +21,14 @@ Avocado Banana Bread is banana bread made even better with avocados! This bread 
 ## Ingredients
 
 - 1 cup granulated sugar
-- 1/2 cup mashed avocado about 2 avocados
+- &#189;  cup mashed avocado about 2 avocados
 - 2 brown spotted bananas
 - 2 large eggs
 - 6 tablespoons milk
 - 1 teaspoon vinegar
 - 1 teaspoon baking soda
 - 2 cups all-purpose flour
-- ½ cup chocolate chips
+- &#189; cup chocolate chips
 
 
 ## Method

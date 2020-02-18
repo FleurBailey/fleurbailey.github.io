@@ -24,10 +24,10 @@ This fast, delicious sandwich is California-cool on a hot summer's day. And the 
 - 1 small Red Onion
 - 1 tsp. lime zest
 - 4 tsp. lime juice
-- 1/4 tsp. salt
-- 1/4 tsp. Pepper
+- &#188; tsp. salt
+- &#188; tsp. Pepper
 - 2 tbsp. mayonnaise
-- 1/4 c. olive oil
+- &#188; c. olive oil
 - 2 avocados
 - 4 large pocket-style pitas
 - 6 oz. sharp white cheddar cheese

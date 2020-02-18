@@ -21,7 +21,7 @@ Your morning breakfast just got spicier.
 ## Ingredients
 
 _Stewed Black Beans_
-- ¼ cup (½ stick) unsalted butter
+- &#188;	 cup (½ stick) unsalted butter
 - 1 yellow or red bell pepper (or half of each), seeded, finely chopped
 - 1 small red onion, finely chopped
 - 1 jalapeño, seeded, finely chopped
@@ -37,12 +37,12 @@ _Assembly_
 - 2 tablespoons unsalted butter, divided
 - 6 large egg whites
 - Kosher salt
-- ¼ cup sour cream
+- &#188;	cup sour cream
 - 1 cup shredded iceberg lettuce
 - Hot sauce (for drizzling)
-- 1½ ounces shredded ricotta salata (about ⅓ cup)
-- ½ avocado, sliced
-- ¼ cup cilantro leaves with tender stems
+- 1 &#189;	ounces shredded ricotta salata (about ⅓ cup)
+- &#189;	avocado, sliced
+- &#188;	cup cilantro leaves with tender stems
 
 ## Method
 

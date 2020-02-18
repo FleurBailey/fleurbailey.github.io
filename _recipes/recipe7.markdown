@@ -19,7 +19,7 @@ Super-quick and easy, this tasty guacamole recipe takes just 10 minutes to knock
 
 ## Ingredients
 
-- ½ a small red onion
+- &#189; a small red onion
 - 1-2 fresh red chillies
 - 3 ripe avocados
 - 1 bunch of fresh coriander
