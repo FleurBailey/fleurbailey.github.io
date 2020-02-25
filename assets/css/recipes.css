@@ -118,6 +118,7 @@ hr {
 a {
     color: #a3d584;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 /* for a menu for all recipes */
