@@ -2,7 +2,7 @@
 layout: post
 title: Dior at the V and A
 date: 2020-02-18 10:14
-published: false
+published: true
 header_feature_image: _uploads/dior2.png
 caption: Dior at The V and A
 tags:
