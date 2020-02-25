@@ -36,7 +36,7 @@ description: STUDENT ART BLOG
 avatar: uploads/Icon.jpg
 favicon: uploads/Icon.jpg
 gridlayout: true
-recipemenu: false
+recipemenu: true
 header_text: STUDENT ART BLOG
 recipecollection: Avocado Based Recipes
 
