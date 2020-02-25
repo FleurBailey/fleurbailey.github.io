@@ -1,4 +1,4 @@
----
+--
 title: Fleur-Bernadine Bailey
 timezone: UTC
 collections:
@@ -77,7 +77,7 @@ str_add_to: Add to
 str_email: Email
 str_tweet: Tweet
 str_pin_it: Pin it
-str_next_post: Next post
+str_next_post: Read More
 str_previous_post: Previous post
 str_next_page: Next
 str_previous_page: Prev
