@@ -131,4 +131,13 @@ ul.recipes {
   top:40px;
   right:20px;
   text-align: left;
+  position: fixed;
+  -webkit-box-shadow: 14px 18px 56px 0px rgba(50,56,52,0.17);
+-moz-box-shadow: 14px 18px 56px 0px rgba(50,56,52,0.17);
+box-shadow: 14px 18px 56px 0px rgba(50,56,52,0.17);
+}
+
+ul.recipes li {
+  text-indent: none;
+
 }
