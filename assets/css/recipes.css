@@ -79,6 +79,7 @@ body {
 
 h1.site-title {
 font-size: 2.5em;
+hide: true;
 }
 
 img.cover {
