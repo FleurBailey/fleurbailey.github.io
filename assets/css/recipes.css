@@ -92,7 +92,7 @@ width:50%;
 margin:12px;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 400px) {
 
   ul.recipes {
     display:none;
