@@ -11,7 +11,7 @@ tags:
 ---
 Art education within the UK schooling system is in danger. The budgets and time available for art education are under high pressure and more importance is placed on ‘core’ subjects such as Maths and English, as these are the main indicators of the school level and how well it is succeeding in comparison to other schools. The lack of time and money dedicated to art education has led to a dramatic fall in students who are actively choosing to develop their education of art.
 
-For me, art has played a heavy part in my education from playgroup to university. My parents have actively encouraged me to always take a creative route and this started from when they choose one of the creative playgroups, they could find for three old Fleur. Nowadays, I’m studying Publishing Media which allows me to explore different ideas creatively. I believe that my art education has really shaped me as a person and here are ten reasons why I believe art education in schools is so important:
+For me, art has played a heavy part in my education from playgroup to university. My parents have actively encouraged me to always take a creative route and this started from when they choose one of the creative playgroups, they could find for three old Fleur. Nowadays, I’m studying Publishing Media which allows me to explore different ideas creatively. I believe that my art education has really shaped me as a person and here are five reasons why I believe art education in schools is so important:
 
 1. The development of imagination
 Having an outlet to transform your ideas of the world and to explore your inner thoughts through an art medium helps to develop and nurture your imagination. Art allows you to have an outlet to explore and build on your imaginative thoughts
