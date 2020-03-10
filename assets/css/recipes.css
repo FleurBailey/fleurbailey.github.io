@@ -69,7 +69,7 @@ body {
     font-weight: lighter;
     margin: 30px;
     font-size: 1.25em;
-    font-color: gray;
+    color: gray;
     background: white;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -81,7 +81,7 @@ h1.site-title {
 font-size: 2.5em;
 }
 
-.recipehome h1.site-title {
+.recipeshome h1.site-title {
 display: none;
 }
 
