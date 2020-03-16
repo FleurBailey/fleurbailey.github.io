@@ -91,12 +91,15 @@ width:50%;
 margin:12px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 80%) {
 
   ul.recipes {
     display:none;
   }
 
+  img {
+    display: none;
+    }
 }
 
 blockquote {
