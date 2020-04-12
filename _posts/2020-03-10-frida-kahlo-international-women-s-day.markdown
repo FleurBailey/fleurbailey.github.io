@@ -1,13 +1,12 @@
 ---
-layout: post
 title: Frida Kahlo - International Women's Day
-date: 2020-03-10 09:55
-published: true
-header_feature_image: _uploads/fridacoverphoto.jpg
-caption:
+date: 2020-03-10 09:55:00 Z
 tags:
 - Mexico
-- Frida Kahlo    # use [tag1,tag2]
+- Frida Kahlo
+layout: post
+header_feature_image: _uploads/fridacoverphoto.jpg
+caption: 
 ---
 
 To coincide with International Women's Day, I wanted to write a piece about one of my all time favourite female artists: Frida Kahlo. 

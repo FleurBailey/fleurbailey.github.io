@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Free Galleries in London
-date: 2020-02-25 09:57
-published: true
-header_feature_image: _uploads/godsownjunkyard.jpg
-caption:
-tags:    # use [tag1,tag2]
+date: 2020-02-25 09:57:00 Z
+tags:
 - London
 - free
 - galleries
+layout: post
+header_feature_image: _uploads/godsownjunkyard.jpg
+caption: 
 ---
 
 London is expensive, it’s no secret, so in order to keep living or travel costs low it’s nice to have some free galleries to visit to further your art and culture knowledge of the city!

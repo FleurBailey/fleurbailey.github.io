@@ -1,11 +1,10 @@
 ---
-layout: recipeshome
 title: RECIPES
-subtitle: My Recipe Site #optional sub title to the post
-permalink: /recipes/
-tags:
-published: true
-hide: false #remove this line when you want your recipe site on the menu
+permalink: "/recipes/"
+layout: recipeshome
+subtitle: My Recipe Site
+tags: 
+hide: false
 ---
 
 Everyone knows that the favourite choice of every millennial is the _avocado_.

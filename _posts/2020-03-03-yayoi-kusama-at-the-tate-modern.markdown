@@ -1,13 +1,12 @@
 ---
-layout: post
 title: Tate Modern Turns 20
-date: 2020-03-03 10:06
-published: true
-header_feature_image: _uploads/lightart.jpg
-caption: Twentieth Celebrations at Tate Modern
+date: 2020-03-03 10:06:00 Z
 tags:
 - Tate
-- London   # use [tag1,tag2]
+- London
+layout: post
+header_feature_image: _uploads/lightart.jpg
+caption: Twentieth Celebrations at Tate Modern
 ---
 
 In the twenty years since May 2000, Tate Modern has welcomed over 100 million visitors through their doors. To celebrate the anniversary of its opening they will dedicate a day to special displays and performances across the modern art gallery. 

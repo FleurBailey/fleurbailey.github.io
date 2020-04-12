@@ -1,17 +1,15 @@
 ---
-layout: post
 title: Meet Vincent Van Gogh
-date: 2020-02-25 10:10
-published: true
-header_feature_image: _uploads/vincent.jpg
-caption:
+date: 2020-02-25 10:10:00 Z
 tags:
 - London
 - South Bank
-- Vincent Van Gogh    # use [tag1,tag2]
+- Vincent Van Gogh
 - immersive
+layout: post
+header_feature_image: _uploads/vincent.jpg
+caption: 
 ---
-
 
 Following the success of the immersive Van Gogh exhibition in Barcelona and Seoul, the _Meet Vincent van Gogh Experience_ is now on display in London and Lisbon.
 

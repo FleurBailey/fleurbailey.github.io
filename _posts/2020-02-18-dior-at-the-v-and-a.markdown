@@ -1,13 +1,12 @@
 ---
-layout: post
 title: Dior at the V and A
-date: 2020-02-18 10:14
-published: true
-header_feature_image: _uploads/dior2.png
-caption: Dior at The V and A
+date: 2020-02-18 10:14:00 Z
 tags:
 - dior
-- london    # use [tag1,tag2]
+- london
+layout: post
+header_feature_image: _uploads/dior2.png
+caption: Dior at The V and A
 ---
 
 In August 2019, I was fortunate enough to get tickets to the highly acclaimed Christian Dior: Designer of Dreams exhibition at the V&A Museum. It is the largest and most widespread Dior exhibition that the UK has ever hosted. Following the history from 1947 to present day, it explores the influence and impression all of the artistic directors have had since Christian Dior passed away in 1957.

@@ -1,5 +1,5 @@
 ---
-title:  Avocado Hummus
+title: Avocado Hummus
 date: 2019-10-19 00:00:00 Z
 tags:
 - Dutch

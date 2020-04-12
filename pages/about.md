@@ -2,10 +2,10 @@
 title: ABOUT
 permalink: "/about/"
 layout: page
-subtitle:
+subtitle: 
 header_feature_image: "/uploads/galleryaboutpage.jpg"
-tags:
-description:
+tags: 
+description: 
 hide: false
 ---
 
