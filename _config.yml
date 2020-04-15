@@ -18,55 +18,55 @@ defaults:
     type: posts
   values:
     layout: post
-    header_feature_image: 
-    caption: 
+    header_feature_image:
+    caption:
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    header_feature_image: 
-    caption: 
+    header_feature_image:
+    caption:
 - scope:
     path: ''
     type: recipe
   values:
     layout: recipe
-    order: 
-baseurl: 
+    order:
+baseurl:
 url: https://fleurbailey.github.io
-description: Oxford Based Food Blog
+description: Student Art Blog
 avatar: assets/img/face.jpg
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
 header_text: My blog and my recipes
 recipecollection: Your recipe collection
-header_feature_image: "/uploads/EatWhatMakesYouHappy.jpg"
-recipe_bookcover: "/uploads/bookcover.jpg"
-twitter_username: 
+header_feature_image: "/uploads/artheader.jpg"
+recipe_bookcover: "/uploads/AvoFrontCover.jpg"
+twitter_username:
 lang: en_gb
 footer_text: Copyright 2020 Fleur Bernadine Bailey
 rss: false
-email_address: 
-facebook: 
-flickr: 
-google_plus: 
+email_address:
+facebook:
+flickr:
+google_plus:
 instagram: whatoxfordeats
-linkedin: 
-pinterest: 
-soundcloud: 
-twitter: 
-youtube: 
+linkedin:
+pinterest:
+soundcloud:
+twitter:
+youtube:
 share_buttons:
   facebook: true
   twitter: true
-  tumblr: 
-  pinterest: 
-  linkedin: 
+  tumblr:
+  pinterest:
+  linkedin:
   email: true
-google_analytics: 
-disqus_shortname: 
+google_analytics:
+disqus_shortname:
 str_follow_on: Follow on
 str_rss_follow: Follow RSS feed
 str_share_on: Share on
