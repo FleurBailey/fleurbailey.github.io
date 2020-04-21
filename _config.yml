@@ -40,9 +40,9 @@ avatar: assets/img/face.jpg
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
-header_text: My blog and my recipes
+header_text: Student Art Blog
 recipecollection: Your recipe collection
-header_feature_image: "/uploads/artheader.jpg"
+header_feature_image: /uploads/arttheader.jpg 
 recipe_bookcover: "/uploads/AvoFrontCover.jpg"
 twitter_username:
 lang: en_gb
