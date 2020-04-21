@@ -38,11 +38,11 @@ url: https://fleurbailey.github.io
 description: Student Art Blog
 avatar: assets/img/face.jpg
 favicon: assets/favicon.ico
-gridlayout: false
+gridlayout: true
 recipemenu: false
 header_text: Student Art Blog
 recipecollection: Your recipe collection
-header_feature_image: /uploads/arttheader.jpg 
+header_feature_image: /uploads/artheader.jpg
 recipe_bookcover: "/uploads/AvoFrontCover.jpg"
 twitter_username:
 lang: en_gb
