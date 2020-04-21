@@ -9,7 +9,6 @@ lockdown
 japan
 yayoi kushama    # use [tag1,tag2]
 ---
-
 You may remember several blogposts back I wrote about Tate Turning 20 and how it was very exciting as Yayoi Kusama was coming to exhibit some of her work. I’ve always been a fan of her work but have never had the time to fully explore her inspiration and career, now I’m in lockdown I haven’t much excuse to find out more about this incredibly interesting artist.
 
 Kusama is acknowledged as one of the most important living artists to come out of Japan, predominately working in sculpture and installation but she’s also completed works in all sorts of genres including film, fashion and poetry.
