@@ -2,7 +2,6 @@
 layout: post
 title: Who is Yayoi Kusama!?
 date: 2020-04-21 14:01
-published: true
 header_feature_image: [![Yayoi Kusama](/_uploads/ky1.jpg)](/_uploads/ky1.jpg)
 caption:
 tags:
