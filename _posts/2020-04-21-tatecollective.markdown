@@ -1,6 +1,6 @@
 ---
 title: Lockdown Explores: Tate Collective
-date: 2020-4-7 00:00:00
+date: 2020-04-07 00:00:00
 published: true
 tags:
 - Tate
