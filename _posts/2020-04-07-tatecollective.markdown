@@ -1,5 +1,5 @@
 ---
-title: How to
+title: How To Get A Job at The Tate & Lockdown Listens: Tate Collective
 date: 2020-04-07 00:00:00 Z
 published: true
 tags:
