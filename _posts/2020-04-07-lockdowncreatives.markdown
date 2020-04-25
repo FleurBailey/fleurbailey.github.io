@@ -1,5 +1,5 @@
 ---
-title: Lockdown Diaries - Creatives Take on COVID-19
+title: Lockdown Diaries - Corona, Creative and Chats
 date: 2020-01-28 13:02:00 Z
 published: true
 layout: post
