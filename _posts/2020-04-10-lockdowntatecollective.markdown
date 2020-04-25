@@ -1,49 +1,62 @@
 ---
 title: Here is a sample blog post
-date: 2019-10-19 00:00:00 Z
-published: false
+date: 2020-04-10 00:00:00 Z
+published: true
 tags:
-- Journalism
-- Life
-- Food
+- Tate
+- Collective
+- Student help
 layout: post
-header_feature_image: _uploads/tomatoes.jpg
-caption: Juicy Tomatoes
+header_feature_image: _uploads/tc.jpg
+caption: Tate Collective
 ---
 
-This is just a sample post that you should delete or set to `published:false`. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+When purchasing a ticket at the Tate Modern to see the Olafur Eliasson I was asked, I was if I was a member of Tate Collective to which I wasn’t, so I signed up. I have not thought about Tate Collective since then, however, inspired by looking into Yayoi Kusama, I thought I would use my lockdown time to look into the Tate Collective and see what it could offer during quarantine days. In doing this, I have realised how much and varied content that Tate Collective provides!
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a _blockquote_.
+### What Is It?!
+Launched in 2018, Tate launched a new membership scheme with the aim of encouraging more young people to visit the four Tate galleries. It’s free to join and it has so many benefits including access to exhibitions for only a fiver, which when you think about it is so cheap especially for exhibitions in London. Former Tate Director, Maria Balshaw, stated:
+
+>_“We are acting on what 16 to 25-year-olds say they want so that we can make the changes needed for future generations. Our sector should be shaped by their creative energy and their message to us is clear: arts institutions should plan ‘with’ not ‘for’ them.”_
+
+With this goal in  mind Tate Collective have  produced  so much content which is just perfect for lockdown. Here  are some of my favourite resources provided by Tate Collective.
+
+### WATCH
+
+[![Tate Collective Video](/_uploads/tcvideo.jpg)](/_uploads/tcvideo.jpg)
+
+There is a brilliant video looking at four different roles within the Tate  galleries. Here  are my key takeaways from the video:
+
+Job Role  | Key Points  
+--|--
+Junior Designers  | Keep producing content, always have a individual projects on the go. This not only looks great when applying for jobs but allows you to keep challenging yourself creatively
+Marketing Assistant  | Speaks directly about how to make a successful marketing campaign and the benefits of working with a diverse team. Also really emphasised the importance of individual projects.   
+Assistant Producer within Digital  Team  |  The process behind creating podcasts, videos and websites. As well as some of the people skills you may need.
+Curator  |  Openly discusses the benefits of meeting artists but the most interesting point I felt was the discussion of networking a sense of people around you, adding the importance off being aware of those around you and valuing them.
+
+A point seen across all is that there is not a set route into working in a gallery and to always ask for help when you need it. Here are the top takeaways I will take into account:
+
+1. Having a **portfolio** of individual projects can make you stand out when applying for jobs
+2. You **don't need** to have **studied** an **arts** degree nor have an arts background to succeed
+3. Look out for internships from galleries, plenty offer **paid** internships
+
+[Watch the full video here. ](https://www.youtube.com/watch?v=8-HcBhHQSfc)
+
+###  READ
 
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+[![Guerrilla Girls](/_uploads/P78793_9.jpg)](/_uploads/P78793_9.jpg)
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
+Tate Collective has plenty of short and long reads available on their website. One of my favourite is about the Guerrilla Girls.
 
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
+The group use research, statistics and humour to make a bigger point, which is in short; across a wide range of public and private galleries only a small percentage of art on display is by women and people of colour. As they put it:
 
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
+ >_“The history of art is really the power of history”_
 
-## Here is a an image
+I'd highly recommend checking out the full article about this group, I personally have really liked this groups work for a long time so it was nice to gain a deeper understanding of their work. [Full article here.](https://www.tate.org.uk/art/artists/guerrilla-girls-6858/getting-know-guerrilla-girls)
 
-[![Wooden Type](/_uploads/type.jpg)](/_uploads/type.jpg)
+### LISTEN
+[![Tate Collective](/_uploads/tc3.jpg)](/_uploads/tc3.jpg)
 
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
+Finally, Tate Collective produce a podcast! It's called 'The Art Of...' and is a series telling  stories behind the art in the Tate galleries. I'd also recommend the podcast called 'Walks of Art'. A podcast where they walk around areas of London, where they interview experts about the art of the area. The best part is that it allows you to explore London without even having o leave the house; perfect for lockdown.
 
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
-
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
-
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
-
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
-
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+Right, I've yabbered on now about a few of my favourite bits about this resource it's your turn to explore it now!
