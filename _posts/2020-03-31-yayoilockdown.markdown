@@ -5,7 +5,7 @@ tags:
 - Japan
 - yayoi
 layout: post
-header_feature_image: _uploads/yk1.jpg
+header_feature_image: _uploads/kyhead.jpg
 caption: Yayoi
 ---
 You may remember several blogposts back I wrote about Tate Turning 20 and how it was very exciting as Yayoi Kusama was coming to exhibit some of her work. I’ve always been a fan of her work but have never had the time to fully explore her inspiration and career, now I’m in lockdown I haven’t much excuse to find out more about this incredibly interesting artist.
