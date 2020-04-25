@@ -1,12 +1,12 @@
 ---
 title: Lockdown Diaries: Who Is Yayoi Kushamo?
-date: 2020-3-31 00:00:00
+date: 2020-03-31 00:00:00 Z
 published: true
 tags:
 - Japan
-- Yayoi
+- yayoi
 layout: post
-header_feature_image: _uploads/ky1.jpg
+header_feature_image: _uploads/yk1.jpg
 caption: Yayoi
 ---
 You may remember several blogposts back I wrote about Tate Turning 20 and how it was very exciting as Yayoi Kusama was coming to exhibit some of her work. I’ve always been a fan of her work but have never had the time to fully explore her inspiration and career, now I’m in lockdown I haven’t much excuse to find out more about this incredibly interesting artist.
