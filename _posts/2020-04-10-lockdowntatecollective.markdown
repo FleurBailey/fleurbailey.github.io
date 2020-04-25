@@ -1,5 +1,5 @@
 ---
-title: Here is a sample blog post
+title: Tate Collective
 date: 2020-04-10 00:00:00 Z
 published: true
 tags:
