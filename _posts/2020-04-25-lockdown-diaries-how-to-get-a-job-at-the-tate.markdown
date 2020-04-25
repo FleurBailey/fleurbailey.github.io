@@ -1,12 +1,13 @@
 ---
-title: Lockdown Diaries: How To Get A Job at The Tate?
-date: 2020-04-07 00:00:00 Z
-tags:
-- tate
-- lockdown
 layout: post
+title: Lockdown Diaries: How To Get A Job at The Tate
+date: 2020-04-25 16:22
+published: false
 header_feature_image: _uploads/tc.jpg
 caption: Tate Collective
+tags:
+- Tate
+- Lockdown    # use [tag1,tag2]
 ---
 
 When purchasing a ticket at the Tate Modern to see the Olafur Eliasson I was asked, I was if I was a member of Tate Collective to which I wasn’t, so I signed up. I have not thought about Tate Collective since then, however, inspired by looking into Yayoi Kusama, I thought I would use my lockdown time to look into the Tate Collective and see what it could offer during quarantine days. In doing this, I have realised how much and varied content that Tate Collective provides!

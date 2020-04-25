@@ -1,10 +1,7 @@
 ---
 title: Lockdown Diaries: How To Get A Job at The Tate?
-date: 2020-03-31 13:02:00 Z
+date: 2020-01-28 13:02:00 Z
 published: true
-tags:
-- Tate
-- Lockdown
 layout: post
 header_feature_image: _uploads/tc.jpg
 caption: Tate Collective
