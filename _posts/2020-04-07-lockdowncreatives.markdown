@@ -1,9 +1,9 @@
 ---
-title: Lockdown Diaries - Corona, Creative and Chats
+title: Lockdown Diaries - How Has Corona Impacted Creatives?
 date: 2020-04-10 13:02:00 Z
 published: true
 layout: post
-header_feature_image: _uploads/creativeslockdown.jpg
+header_feature_image: _uploads/creativeslockdown.jpeg
 caption: Isolation Conversations
 ---
 At university and home many of my friends have followed creative routes, sobeit through university or the casual hobbyist. I love being surrounded by people that inspire me every day through their work. During lockdown I wanted to catch up with some of them to see how Corona virus has impacted their work as well as creative industry as a whole. I spoke to a student photographer (SP), a freelance graphic designer (GD) and a painter (P).
