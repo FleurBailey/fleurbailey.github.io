@@ -1,5 +1,5 @@
 ---
-title: Lockdown Diaries: Who Is Yayoi Kushamo?
+title: Lockdown Diaries - Who Is Yayoi Kushamo?
 date: 2020-03-31 00:00:00 Z
 tags:
 - Japan

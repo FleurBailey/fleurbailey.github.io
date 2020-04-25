@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lockdown Diaries: How To Get A Job at The Tate
+title: Lockdown Diaries - How To Get A Job at The Tate
 date: 2020-04-25 16:22
 published: false
 header_feature_image: _uploads/tc.jpg
