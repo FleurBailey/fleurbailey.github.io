@@ -38,6 +38,7 @@ url: https://fleurbailey.github.io
 description: Student Art Blog
 avatar: assets/img/face.jpg
 favicon: assets/favicon.ico
+gridlayout:
 gridlayout: true
 recipemenu: false
 header_text: Student Art Blog
