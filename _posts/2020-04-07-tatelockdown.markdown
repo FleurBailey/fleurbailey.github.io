@@ -1,7 +1,6 @@
 ---
 title: Lockdown Diaries: How To Get A Job at The Tate?
 date: 2020-04-07 00:00:00 Z
-published: true
 tags:
 - tate
 - lockdown
