@@ -7,7 +7,7 @@ tags:
 - Art
 - Graduate
 layout: post
-header_feature_image: _uploads/fleuroxford.jpg
+header_feature_image: _uploads/oxfordfleur.jpg
 caption: Radcliffe Camera
 ---
 This Friday, the 1st of May, I will hand in my last ever university assignment. I’ve had a great three years at Oxford Brookes and have learnt so much creatively. It does beg the question what is next, but before we answer that let’s rewind to 2017 when I joined Oxford Brookes.
