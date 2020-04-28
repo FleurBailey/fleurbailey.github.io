@@ -1,6 +1,6 @@
 ---
 title: Lockdown Diaries - Reflecting on My Time at Oxford Brookes
-date: 2019-10-19 00:00:00 Z
+date: 2020-04-28 00:00:00 Z
 published: true
 tags:
 - Student
@@ -10,7 +10,7 @@ layout: post
 header_feature_image: _uploads/fleuroxford.jpg
 caption: Radcliffe Camera
 ---
-This Friday 1st of May I will hand in my last ever university assignment, I’ve had a great three years at Oxford Brookes and have learnt so much creatively. It does beg the question what is next, but before we answer that let’s rewind to 2017 when I joined Oxford Brookes.
+This Friday, the 1st of May, I will hand in my last ever university assignment. I’ve had a great three years at Oxford Brookes and have learnt so much creatively. It does beg the question what is next, but before we answer that let’s rewind to 2017 when I joined Oxford Brookes.
 
 ### FIRST YEAR: 2017 - 2019
 My first year saw many health complications and far too many visits to the John Radcliffe, despite this, I feel I came out of that year stronger and more motivated than ever. I was first introduced to InDesign in Introduction to Magazine Publishing. Where I learnt from playing around on the software to produce the media-kit for our proposed magazine coursework. From that moment on I was hooked to the art of digital design.
